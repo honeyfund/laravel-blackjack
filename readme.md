@@ -4,7 +4,7 @@
 
 ## Instructions
 
-You will be creating a Blackjack card game that will consist of 2 players--the dealer and ONE player.
+You will be creating a Web Application of a Blackjack card game that will consist of 2 players, the dealer and ONE player.
 
 The game will have 1 standard deck of 52 cards.
 The game will have 4 controls:
